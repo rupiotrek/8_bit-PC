@@ -5,6 +5,7 @@ Project based on the project of [8 bit PC by Ben Eater](https://eater.net/8bit/ 
 
 
 
+
 # Version 1
 
 Board divided into 3 parts:
