@@ -8,6 +8,11 @@ Project based on the project of [8 bit PC by Ben Eater](https://eater.net/8bit/ 
 
 # Version 1
 
+Contains:
+1. 3 board & schematic designs
+2. Gerber files for production
+3. BOM 
+
 Board divided into 3 parts:
 
 ## Left
