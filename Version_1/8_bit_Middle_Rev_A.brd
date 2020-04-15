@@ -5755,7 +5755,7 @@ design rules under a new name.</description>
 <attribute name="POPULARITY" value="15" x="57.404" y="148.59" size="1.778" layer="27" display="off"/>
 </element>
 <element name="U$1" library="Logos" package="SOLAIRE" value="" x="1.2446" y="105.9942" smashed="yes"/>
-<element name="U$2" library="logo" library_urn="urn:adsk.eagle:library:264" package="MUELLTONNE" value="" x="24.2824" y="2.8194" smashed="yes"/>
+<element name="U$2" library="logo" library_urn="urn:adsk.eagle:library:264" package="MUELLTONNE" value="" x="35.6616" y="2.8194" smashed="yes" rot="MR0"/>
 </elements>
 <signals>
 <signal name="GND">
